@@ -6,4 +6,4 @@ Clone this repository, then activate virtualenv by:
 
 Run application by: 
 `python click.py x y`
-Where x and y are secounds between clicks desired.
+Where x and y are seconds between clicks desired.
